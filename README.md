@@ -16,6 +16,10 @@
 
 ---
 
+<p align="center">
+  <img height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
+</p>
+
 <div align="left">
 
 ## 🚀 About Me  
@@ -26,7 +30,6 @@
 
 ###
 
-<img align="right" height="180" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="data gif"/>
 
 ###
 💻 I’m a MERN Stack Developer who enjoys building modern web applications using React, Next.js, Node.js, and Express. I genuinely love the process of turning ideas into real, working products 🚀.
